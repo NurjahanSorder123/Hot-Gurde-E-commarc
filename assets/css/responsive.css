@@ -1,0 +1,32 @@
+@media(max-width:576px){
+/* Catagoris Part Start */
+.cate-img{
+    display: none;
+}
+/* Catagoris Part End */
+}
+@media(max-width:768px){
+    .form-control {
+        width: 90% !important;
+    }
+}
+@media(max-width:992px){
+    /* Catagoris Part Start */
+.cat-img-sec2.catu{
+    padding-left: 5px !important;
+    padding-top: 40px !important;
+}
+    /* Catagoris Part End */
+    /* Footer Part Start */
+.footer-con{
+    padding-left: 40px !important;
+}
+    /* Footer Part End */
+}
+@media(max-width:1200px){
+/* Catagoris Part Start */
+.cat-img-sec2{
+    padding-left: 30px !important;
+}
+/* Catagoris Part End */
+}
